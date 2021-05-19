@@ -1,6 +1,6 @@
-# doorlock
+# Un-Lock
 
-A new Flutter project.
+Un-Lock is a application used to control doors. It is built using a Raspberry pi, a servo motor and Flask. The raspberry pi runs the flask server and on getting a request performs the required action.
 
 ## Getting Started
 
